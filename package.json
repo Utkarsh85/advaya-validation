@@ -1,0 +1,28 @@
+{
+  "name": "advaya-validation",
+  "version": "0.0.0",
+  "description": "Advaya validation plugin based on ajv",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/advaya-validation.git"
+  },
+  "keywords": [
+    "advaya",
+    "plugin",
+    "validation",
+    "ajv"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/advaya-validation/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/advaya-validation#readme",
+  "dependencies": {
+    "ajv": "^4.7.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "advaya-validation",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Advaya validation plugin based on ajv",
   "main": "index.js",
   "scripts": {
